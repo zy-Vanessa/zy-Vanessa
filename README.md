@@ -13,4 +13,4 @@
 - ⚡ Fun fact: ...
 -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zy-Vanessa)](https://github.com/zy-Vanessa/github-readme-stats)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=zy-Vanessa.R_kgDOKlXeDA&left_color=green&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=zy-Vanessa&left_color=green&right_color=red)
